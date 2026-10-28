@@ -1,0 +1,7 @@
+.parallax {
+  height: 20vh;
+  background-image: url("Peirene_Fountain.jpg");
+  background-attachment: fixed;   /* key line */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
